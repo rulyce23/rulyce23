@@ -11,6 +11,6 @@
 
 ### See More About Myself ###
 
-Just Go To :
+Just Go To : http://rulzcoo.rf.gd
 
-<img src="http://rulzcoo.rf.gd/?i=1 />
+
