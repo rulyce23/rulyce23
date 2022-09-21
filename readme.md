@@ -6,7 +6,7 @@
 
 
 
-[![Paypal viloid](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://saweria.co/rulyce23)
+[![Paypal](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://saweria.co/rulyce23)
 
 
 ### See More About Myself ###
