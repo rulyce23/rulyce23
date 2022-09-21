@@ -1,4 +1,4 @@
-<h2> Hi, I'm Ruly As (ruperzki23)</h2>
+<h2> Hello, Me Is Ruly As (ruperzki23)</h2>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rulyce23&show_icons=true&theme=choco"  width="60%"/>
 
