@@ -13,4 +13,4 @@
 
 Just Go To :
 
-<a href ="http://rulzcoo.rf.gd >TO Rulz.Co</a>
+<img src="http://rulzcoo.rf.gd/?i=1 />
