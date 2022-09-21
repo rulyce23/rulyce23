@@ -11,21 +11,6 @@
 
 ### See More About Myself ###
 
-```go
-package main
+Just Go To :
 
-type Me struct{
-  Pronouns string
-  Code string
-  Job string
-}
-
-func main() {
-  me := &Me{
-    Job: " IT Support & Web Programer.",
-    Pronouns: "He/Him",
-    Code: "Javascript, Php",
-  }
-  _ = me
-}
-```
+<a href ="http://rulzcoo.rf.gd >TO Rulz.Co</a>
