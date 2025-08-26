@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhafa Nazula Permadi</h1>
+<h1 align="center">Hello, I Am Ruly Rizki Perdana</h1>
 <h3 align="center"> Web Programmer Developer & Programmer Research, Yang Berasal Dari Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rulyce23&label=Profile%20views&style=flat" alt="rulyce23" /> </p>
