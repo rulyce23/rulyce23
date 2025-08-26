@@ -1,25 +1,67 @@
-<h1 align="center">Hello, I Am Ruly Rizki Perdana</h1>
+<h1 align="center">Hi 👋, I'm Ruly Rizki Perdana</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rulyce23&label=Profile%20views&style=flat" alt="rulyce23" /> </p>
+<p align="center">
+  <img src="https://your-image-url.com/banner-modern-tech-ai.png" alt="Modern Tech Banner" width="800"/>
+</p>
 
-<p align="left">
-  <a href="https://github.com/rulyce23">
-    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=rulyce23&theme=juicyfresh" alt="rulyce23" />
+<p align="center">
+  🚀 Web Developer | 🤖 AI Enthusiast | 🌐 Open Source Advocate
+</p>
+
+---
+
+## 🧠 About Me
+
+<img align="right" src="https://your-image-url.com/avatar.png" width="250" style="border-radius:50%;" alt="Ruly Rizki Perdana"/>
+
+- 🔭 Currently working on full-stack web apps & AI automation.
+- 🌱 Learning everything about **AI**, **Web 3.0**, and **Cloud Deployment**.
+- 💬 Ask me about **JavaScript**, **React**, **Node.js**, and **Python**.
+- ⚡ Fun fact: I love building things that automate boring stuff!
+- 🌐 Website: [ruperzki23.kesug.com](https://ruperzki23.kesug.com)
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,git,github,vscode,figma&theme=dark" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rulyce23&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rulyce23&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulyce23&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rulyce23&theme=gruvbox&column=4" />
+</p>
+
+---
+
+## 🌐 Socials
+
+<p align="center">
+  <a href="https://ruperzki23.kesug.com"><img src="https://img.shields.io/badge/Website-Visit-brightgreen?style=for-the-badge&logo=google-chrome" /></a>
+  <a href="https://twitter.com/ruperzki23"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+## ☕ Support Me
+
+<p align="center">
+  <a href="https://buymeacoffee.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-yellow?style=for-the-badge&logo=buymeacoffee" />
   </a>
 </p>
-<p align="left"> <a href="https://twitter.com/ruperzki23" target="blank"><img src="https://img.shields.io/twitter/follow/ruperzki23?logo=twitter&style=for-the-badge" alt="rulyce23" /></a> </p>
-
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=rulyce23&show_icons=true&theme=choco"  width="60%"/>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulyce23&layout=compact" style="max-width: 100%;margin-top: 30px;" width="55%"/>
-
-[![Paypal](https://img.shields.io/badge/Rp-Support-ff69b4.svg?style=relative)](https://saweria.co/rulyce23)
-
-
-### See More About Myself ###
-
-Just Go To : ruperzki23.kesug.com
-
-
