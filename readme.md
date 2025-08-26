@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ruly Rizki Perdana</h1>
 
 <p align="center">
-  <img src="https://your-image-url.com/banner-modern-tech-ai.png" alt="Modern Tech Banner" width="800"/>
+  <img src="https://your-image-url.com/banner-modern-tech-ai.png" alt="Modern Tech Web Developer" width="800"/>
 </p>
 
 <p align="center">
-  🚀 Web Developer | 🤖 AI Enthusiast | 🌐 Open Source Advocate
+  🚀 Web Developer & Research Programmer | 🤖 AI Enthusiast | 🌐 Open Source Research & Javascript Developer | 
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 - 🔭 Currently working on full-stack web apps & AI automation.
 - 🌱 Learning everything about **AI**, **Web 3.0**, and **Cloud Deployment**.
-- 💬 Ask me about **JavaScript**, **React**, **Node.js**, and **Python**.
+- 💬 Ask me about **Laravel**,**Codeigniter**,**Yii**,**Yii2**,**JavaScript**, **React**, **Node.js**, and **Python**.
 - ⚡ Fun fact: I love building things that automate boring stuff!
 - 🌐 Website: [ruperzki23.kesug.com](https://ruperzki23.kesug.com)
 
@@ -25,7 +25,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,laravel,pgsql,postgresql,yii2,codeigniter,mongodb,python,git,github,vscode,figma&theme=dark" />
 </p>
 
 ---
