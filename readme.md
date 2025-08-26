@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 Web Developer & Research Programmer | 🤖 AI Enthusiast Research & Javascript Developer | 
+  |🚀 Web Developer & Research Programmer | 🤖 AI Enthusiast Research & Javascript Developer | 
 </p>
 
 ---
