@@ -53,7 +53,7 @@
 <p align="center">
   <a href="https://ruperzki23.kesug.com"><img src="https://img.shields.io/badge/Website-Visit-brightgreen?style=for-the-badge&logo=google-chrome" /></a>
   <a href="https://twitter.com/ruperzki23"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:ruperzki23@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
@@ -61,7 +61,7 @@
 ## ☕ Support Me
 
 <p align="center">
-  <a href="https://buymeacoffee.com/yourusername" target="_blank">
+  <a href="https://buymeacoffee.com/ruperzki23" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-yellow?style=for-the-badge&logo=buymeacoffee" />
   </a>
 </p>
