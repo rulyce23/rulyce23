@@ -21,6 +21,6 @@
 
 ### See More About Myself ###
 
-Just Go To : http://rulzcoo.rf.gd
+Just Go To : ruperzki23.kesug.com
 
 
