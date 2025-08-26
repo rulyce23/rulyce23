@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruly Rizki Perdana</h1>
 
 <p align="center">
-  <img src="https://www.canva.com/design/DAGxJ-sTb-k/3zdzMggZ38PvCkzwaOyP3g/edit" alt="Modern Tech Web Developer" width="800"/>
+  <img src="[https://www.canva.com/design/DAGxJ-sTb-k/3zdzMggZ38PvCkzwaOyP3g/edit](https://www.canva.com/design/DAGxJ0-j040/2jBQ5FXTuXjR1jPQlFuY5Q/edit)" alt="Modern Tech Web Developer" width="800"/>
 </p>
 
 <p align="center">
