@@ -22,14 +22,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,laravel,pgsql,postgresql,yii2,codeigniter,mongodb,python,git,github,vscode,figma&theme=dark" />
-</p>
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -46,6 +38,34 @@
   <a href="https://github.com/rulyce23">
     <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=rulyce23&theme=juicyfresh" alt="rulyce23" />
   </a>
+</p>
+---
+
+### 🚀 Programming & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,nodejs,react,nextjs,express,laravel,mongodb,postgresql,git,github,vscode,figma&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="40" title="CodeIgniter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" width="40" title="Yii2"/>
+</p>
+---
+### 🤖 AI & Automation
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="40" title="ChatGPT / OpenAI" />
+  <img src="https://img.shields.io/badge/Ollama-222222?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white" title="Ollama" />
+  <img src="https://img.shields.io/badge/Cursor%20AI-343434?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white" title="Cursor AI" />
+</p>
+---
+
+### 🧰 Tools & Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" title="Bash Shell" />
+  <img src="https://img.shields.io/badge/Git%20Bash-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git Bash" />
+  <img src="https://img.shields.io/badge/Remote%20Desktop-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" title="Windows RDP" />
+  <img src="https://img.shields.io/badge/AnyDesk-EC1C24?style=for-the-badge&logo=anydesk&logoColor=white" title="Anydesk" />
+  <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" title="Google Services" />
 </p>
 ---
 
