@@ -42,10 +42,11 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rulyce23&theme=gruvbox&column=4" />
+<p align="left">
+  <a href="https://github.com/rulyce23">
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=rulyce23&theme=juicyfresh" alt="rulyce23" />
+  </a>
 </p>
-
 ---
 
 ## 🌐 Socials
